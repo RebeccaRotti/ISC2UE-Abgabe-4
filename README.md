@@ -1,6 +1,6 @@
 # ISC2UE Abgabe 4
 
-Schreibe ein Programm, dass die Biersorten der kostenlosen API zur Verfügung stellt.
+Schreibe ein Programm, dass die [Biersorten der kostenlosen API](https://api.punkapi.com/v2/beers) zur Verfügung stellt.
 
 In Ihrem Repository ist das Grundgerüst bereits vorhanden. Vervollständigen Sie das JavaScript damit die richtigen Daten angezeigt werden
 Die Logik um die Details anzuzeigen ist bereits vorhanden.
